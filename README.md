@@ -1,16 +1,78 @@
-# React + Vite
+# React Todo List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Простой Todo List, созданный на React + Vite.
 
-Currently, two official plugins are available:
+Проект сделан для практики работы с React, состоянием, формами и массивами.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Демо
 
-## React Compiler
+https://react-todo-list-sand-eight.vercel.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Возможности
 
-## Expanding the ESLint configuration
+- Добавление новых задач
+- Отображение списка задач
+- Удаление задач
+- Управление состоянием через React
+- Работа с input
+- Адаптивный и простой интерфейс
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Технологии
+
+- React
+- JavaScript
+- HTML
+- CSS
+- Vite
+- Git
+- GitHub
+- Vercel
+
+## 📸 Скриншот
+
+![Todo List](./screenshots/screenshot.png)
+
+## 💻 Запуск проекта
+
+Склонируйте репозиторий:
+
+```bash
+git clone https://github.com/sanjisadsad-cloud/react-todo-list.git
+```
+
+Перейдите в папку проекта:
+
+```bash
+cd react-todo-list
+```
+
+Установите зависимости:
+
+```bash
+npm install
+```
+
+Запустите проект:
+
+```bash
+npm run dev
+```
+
+## 📚 Что я изучил в этом проекте
+
+Во время разработки проекта я использовал:
+
+- `useState`
+- `map()`
+- `filter()`
+- обработчики событий
+- controlled input
+- работу с массивами
+- условный рендеринг
+- компоненты React
+- работу с Git и GitHub
+- деплой проекта на Vercel
+
+## 👨‍💻 Автор
+
+Sanzhar Bekseitov
